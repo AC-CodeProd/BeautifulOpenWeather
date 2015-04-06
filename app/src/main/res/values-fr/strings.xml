@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Beautiful Open Weather</string>
+
+    <string name="navigation_drawer_open">Ouvrir le tiroir de navigation</string>
+    <string name="navigation_drawer_close">Fermer le tiroir de navigation</string>
+
+
+    <string name="action_settings">Paramètres</string>
+    <string name="forecast">Prévision</string>
+    <string name="list_of_cities">Liste des villes</string>
+    
+    <string name="title_category_data">Données</string>
+    <string name="title_pref_temperature">Unité de température</string>
+    <string name="summary_pref_temperature">Choisir entre degré Celsius et Fahrenheit</string>
+    <string name="switch_off_temperature">°F</string>
+    <string name="switch_on_temperature">°C</string>
+</resources>

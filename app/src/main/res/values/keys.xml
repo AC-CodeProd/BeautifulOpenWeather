@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="pref_key_category_data">pref_key_category_data</string>
+    <string name="pref_key_pref_temperature">pref_key_pref_temperature</string>
+
+    <string name="pref_key_pref_current_city">pref_key_pref_current_city</string>
+    <string name="pref_key_pref_list_city">pref_key_pref_list_city</string>
+
+
+</resources>
